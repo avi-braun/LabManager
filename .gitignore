@@ -4,4 +4,4 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
-non_git files.py
+non_git_files_2.py
